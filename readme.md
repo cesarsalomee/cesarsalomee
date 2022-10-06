@@ -1,14 +1,7 @@
-## Meu nome é César Salomé, atualmente sou Analista de Negócios e atuo em diversas áreas da TI!
-
-<div align="center">
-  <a href="https://github.com/cesarsalomee">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cesarsalomee&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarsalomee&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
+## Meu nome é César Salomé, atualmente sou Analista de Negócios e atuo em algumas áreas da TI!
 
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="left" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -23,12 +16,17 @@
   
   ##
  
-<div>
-  <a href="https://instagram.com/cesarsalomee" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div style="display: flex; justify-content: center; flex-wrap: wrap">
+  <a align="center" href="https://instagram.com/cesarsalomee" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a align="center" href = "mailto:c.silvasalome@hotmail.com">
+    <img align="center" src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a align="center" href="https://www.linkedin.com/in/xxcssx" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
   <br />
-  <a href = "mailto:c.silvasalome@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <br />
-  <a href="https://www.linkedin.com/in/xxcssx" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>  
 
   ##
