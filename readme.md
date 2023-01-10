@@ -1,7 +1,7 @@
 ## Meu nome é César Salomé, atualmente sou Analista de Negócios e atuo em algumas áreas da TI!
 
 
-<div style="display: inline-block; wrap: nowrap">
+<div style="display: flex; wrap: nowrap; justify-content: center">
   <img align="left" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -23,7 +23,7 @@
   <a align="center" href = "mailto:c.silvasalome@hotmail.com">
     <img align="center" src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a align="center" href="https://www.linkedin.com/in/xxcssx" target="_blank">
+  <a align="center" href="https://www.linkedin.com/in/xxcssxx" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <br />
